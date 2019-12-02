@@ -1,8 +1,8 @@
 x= 20
 if 0<x and x>10:
-	print('tes')
+	print('yes')
 else:
-	print('nor')
+	print('no')
 print('------------')
 #recursion
 import time
