@@ -11,7 +11,7 @@ def lyric():
 def lyrics():
 	print('i want you to be happier')
 def full_lyric():
-	'''the final result would compose of the resukts of two functions'''
+	'''the final result would compose of the results of two functions'''
 	lyric()
 	lyrics()
 	lyrics()
