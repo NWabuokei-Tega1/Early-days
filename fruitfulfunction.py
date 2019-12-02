@@ -25,8 +25,8 @@ def GOAT():
 	print(topdawg)
 GOAT()
 print('-------------------')
-'''
-boolean function
+
+#boolean function
 boolean is an inbuilt python function that prints True or False depending on the given condition '''
 print(4%2 == 0)
 print(6%4 == 0)
