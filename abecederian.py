@@ -1,4 +1,4 @@
-prefix= 'ABCD:FGHJKLMNOPQRSTUVWXYZ'
+prefix= 'ABCDFGHJKLMNOPQRSTUVWXYZ'
 for letter in prefix:
 	suffix = 'ack'
 	if letter == 'O' or letter== 'Q':
